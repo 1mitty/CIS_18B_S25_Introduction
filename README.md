@@ -1,1 +1,3 @@
-# CIS_18B_S25_Introduction
+Name: Ashley 
+Instructor: John Oconnor 
+CIS-18B 37655 
