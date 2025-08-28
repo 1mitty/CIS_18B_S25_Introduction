@@ -1,3 +1,3 @@
-Name: Ashley 
-Instructor: John Oconnor 
-CIS-18B 37655 
+Name: Ashley Nunez 
+Instructor: John O'Connor 
+CIS-18C Section 37655 
